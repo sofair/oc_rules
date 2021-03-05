@@ -1,5 +1,9 @@
 payload:
   - DOMAIN-SUFFIX,cnki.net
+  - DOMAIN-SUFFIX,elsevier.com
+  - DOMAIN-SUFFIX,evise.com
+  - DOMAIN-SUFFIX,els-cdn.com
+  - DOMAIN-SUFFIX,sciencedirect.com
   # - DOMAIN-SUFFIX,local
   # - IP-CIDR,127.0.0.0/8
   # - IP-CIDR,172.16.0.0/12
