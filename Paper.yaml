@@ -6,6 +6,7 @@ payload:
   - DOMAIN-SUFFIX,sciencedirect.com
   - DOMAIN-SUFFIX,nature.com
   - DOMAIN-SUFFIX,wanfangdata.com.cn
+  - DOMAIN-SUFFIX,cqvip.com
   # - DOMAIN-SUFFIX,local
   # - IP-CIDR,127.0.0.0/8
   # - IP-CIDR,172.16.0.0/12
