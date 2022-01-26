@@ -2,6 +2,7 @@ payload:
   - DOMAIN-SUFFIX,byr.cn
   - DOMAIN-SUFFIX,byr.pt
   - DOMAIN-SUFFIX,bt.neu6.edu.cn
+  - DOMAIN-SUFFIX,neubt.com
   # - DOMAIN-SUFFIX,local
   # - IP-CIDR,127.0.0.0/8
   # - IP-CIDR,172.16.0.0/12
