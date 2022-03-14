@@ -1,0 +1,7 @@
+payload:
+  - DOMAIN-SUFFIX,stackpathcdn.com
+  # - DOMAIN-SUFFIX,wokers.dev
+  # - DOMAIN-SUFFIX,whatismyip.akamai.com
+  # - DOMAIN,vm.xfren.top
+  # - IP-CIDR,127.0.0.0/8
+  # - IP-CIDR6,2001:250::/35
