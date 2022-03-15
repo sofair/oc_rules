@@ -2,6 +2,7 @@ payload:
   - DOMAIN-SUFFIX,vm.xfren.top
   - DOMAIN-SUFFIX,wokers.dev
   - DOMAIN-SUFFIX,whatismyip.akamai.com
+  - DOMAIN-SUFFIX,test-ipv6.com
   # - DOMAIN,vm.xfren.top
   # - IP-CIDR,127.0.0.0/8
   - IP-CIDR,107.172.110.110/32
