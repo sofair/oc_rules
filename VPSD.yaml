@@ -1,10 +1,10 @@
 payload:
+  # vps domains
   - DOMAIN-SUFFIX,vm.xfren.top
   - DOMAIN-SUFFIX,wokers.dev
-  - DOMAIN-SUFFIX,whatismyip.akamai.com
-  - DOMAIN-SUFFIX,test-ipv6.com
   # - DOMAIN,vm.xfren.top
   # - IP-CIDR,127.0.0.0/8
+  # cloudflare ips
   - IP-CIDR,107.172.110.110/32
   - IP-CIDR,198.12.118.115/32
   - IP-CIDR,104.22.65.5/32
@@ -18,3 +18,7 @@ payload:
   - IP-CIDR,104.27.201.107/32
   - IP-CIDR,104.27.206.107/32
   # - IP-CIDR6,2001:250::/35
+  # others
+  - DOMAIN-SUFFIX,0daydown.com
+  - DOMAIN-SUFFIX,whatismyip.akamai.com
+  - DOMAIN-SUFFIX,test-ipv6.com
