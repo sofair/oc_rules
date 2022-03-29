@@ -1,5 +1,6 @@
 payload:
   - DOMAIN-SUFFIX,stackpathcdn.com
+  - DOMAIN-SUFFIX,themoviedb.org
   # - DOMAIN-SUFFIX,wokers.dev
   # - DOMAIN-SUFFIX,whatismyip.akamai.com
   # - DOMAIN,vm.xfren.top
