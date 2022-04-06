@@ -1,6 +1,13 @@
 payload:
   - DOMAIN-SUFFIX,stackpathcdn.com
   - DOMAIN-SUFFIX,themoviedb.org
+  - DOMAIN,sukebei.tracker.wf
+  - DOMAIN,bt.ktrackers.com
+  - DOMAIN,open.stealth.si
+  - DOMAIN,tracker.opentrackr.org
+  - DOMAIN,tracker.open-internet.nl
+  - DOMAIN,tracker.coppersurfer.tk
+  - DOMAIN,exodus.desync.com
   # - DOMAIN-SUFFIX,wokers.dev
   # - DOMAIN-SUFFIX,whatismyip.akamai.com
   # - DOMAIN,vm.xfren.top
