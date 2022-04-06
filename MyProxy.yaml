@@ -2,6 +2,7 @@ payload:
   - DOMAIN-SUFFIX,stackpathcdn.com
   - DOMAIN-SUFFIX,themoviedb.org
   - DOMAIN,sukebei.tracker.wf
+  - IP-CIDR,163.172.150.238/32
   - DOMAIN,bt.ktrackers.com
   - DOMAIN,open.stealth.si
   - DOMAIN,tracker.opentrackr.org
