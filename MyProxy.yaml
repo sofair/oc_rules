@@ -4,11 +4,17 @@ payload:
   - DOMAIN,sukebei.tracker.wf
   - IP-CIDR,163.172.150.238/32
   - DOMAIN,bt.ktrackers.com
+  - IP-CIDR,195.154.237.90/32
   - DOMAIN,open.stealth.si
+  - IP-CIDR,185.181.60.155/32
   - DOMAIN,tracker.opentrackr.org
+  - IP-CIDR,93.158.213.92/32
   - DOMAIN,tracker.open-internet.nl
+  - IP-CIDR,208.100.26.242/32
   - DOMAIN,tracker.coppersurfer.tk
+  - IP-CIDR,31.14.40.30/32
   - DOMAIN,exodus.desync.com
+  - IP-CIDR,208.83.20.20/32
   # - DOMAIN-SUFFIX,wokers.dev
   # - DOMAIN-SUFFIX,whatismyip.akamai.com
   # - DOMAIN,vm.xfren.top
