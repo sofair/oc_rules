@@ -5,9 +5,11 @@ payload:
   - DOMAIN-SUFFIX,workers.dev
   # - DOMAIN,vm.xfren.top
   # - IP-CIDR,127.0.0.0/8
-  # cloudflare ips
+  # vps ips
   - IP-CIDR,107.172.110.110/32
   - IP-CIDR,198.12.118.115/32
+  - IP-CIDR,149.57.143.217/32
+  # cloudflare ips
   - IP-CIDR,104.22.65.5/32
   - IP-CIDR,104.22.68.107/32
   - IP-CIDR,104.22.72.107/32
