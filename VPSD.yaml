@@ -3,6 +3,7 @@ payload:
   # - DOMAIN-SUFFIX,sofairren.workers.dev
   - DOMAIN-SUFFIX,vm.xfren.top
   - DOMAIN-SUFFIX,workers.dev
+  - DOMAIN-SUFFIX,911030.xyz
   # - DOMAIN,vm.xfren.top
   # - IP-CIDR,127.0.0.0/8
   # vps ips
