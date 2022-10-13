@@ -16,6 +16,8 @@ payload:
   - DOMAIN,exodus.desync.com
   - IP-CIDR,208.83.20.20/32
   - DOMAIN-SUFFIX,nyaa.si
+  - DOMAIN,aikanxi.org
+  - DOMAIN-SUFFIX,aikanxi.org
   # - DOMAIN-SUFFIX,wokers.dev
   # - DOMAIN-SUFFIX,whatismyip.akamai.com
   # - DOMAIN,vm.xfren.top
