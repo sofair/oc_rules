@@ -5,7 +5,7 @@ payload:
   - DOMAIN-SUFFIX,neubt.com
   - DOMAIN,tracker.byr.pt
   # Fake ip byr
-  - IP-CIDR,198.18.200.1/24
+  - IP-CIDR,10.8.135.0/28
   # Fake ip Range - IP-CIDR,198.18.0.0/16
   - IP-CIDR6,2001:da8:215:4078:250:56ff:fe97:654d/128
   - IP-CIDR6,2001:da8:9000::232/128
