@@ -18,6 +18,8 @@ payload:
   - DOMAIN-SUFFIX,nyaa.si
   - DOMAIN,aikanxi.org
   - DOMAIN-SUFFIX,aikanxi.org
+  - DOMAIN,chinaq.tv
+  - DOMAIN-SUFFIX,chinaq.tv
   # - DOMAIN-SUFFIX,wokers.dev
   # - DOMAIN-SUFFIX,whatismyip.akamai.com
   # - DOMAIN,vm.xfren.top
