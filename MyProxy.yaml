@@ -20,6 +20,8 @@ payload:
   - DOMAIN-SUFFIX,aikanxi.org
   - DOMAIN,chinaq.tv
   - DOMAIN-SUFFIX,chinaq.tv
+  - DOMAIN,chinaq.cc
+  - DOMAIN-SUFFIX,chinaq.cc
   # - DOMAIN-SUFFIX,wokers.dev
   # - DOMAIN-SUFFIX,whatismyip.akamai.com
   # - DOMAIN,vm.xfren.top
