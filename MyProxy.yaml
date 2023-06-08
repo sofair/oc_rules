@@ -22,6 +22,7 @@ payload:
   - DOMAIN-SUFFIX,chinaq.tv
   - DOMAIN,chinaq.cc
   - DOMAIN-SUFFIX,chinaq.cc
+  - DOMAIN-SUFFIX,openai.com
   # - DOMAIN-SUFFIX,wokers.dev
   # - DOMAIN-SUFFIX,whatismyip.akamai.com
   # - DOMAIN,vm.xfren.top
