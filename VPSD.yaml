@@ -7,6 +7,7 @@ payload:
   # - DOMAIN,vm.xfren.top
   # - IP-CIDR,127.0.0.0/8
   # vps ips
+  - IP-CIDR,47.87.143.188/32
   - IP-CIDR,107.172.110.110/32
   - IP-CIDR,198.12.118.115/32
   - IP-CIDR,149.57.143.217/32
