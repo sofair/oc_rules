@@ -39,3 +39,8 @@ payload:
   - DOMAIN-SUFFIX,0daydown.com
   - DOMAIN-SUFFIX,whatismyip.akamai.com
   - DOMAIN-SUFFIX,test-ipv6.com
+  # ffzy
+  - DOMAIN-SUFFIX,ffzy6.tv
+  - DOMAIN-SUFFIX,ffzy5.tv
+  - DOMAIN-SUFFIX,ffzy-online6.com
+  - DOMAIN-SUFFIX,ffzy-online5.com
