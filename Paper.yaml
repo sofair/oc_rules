@@ -20,3 +20,5 @@ payload:
   # - IP-CIDR,17.0.0.0/8
   # - IP-CIDR,100.64.0.0/10
   # - IP-CIDR6,fe80::/10
+  - DOMAIN-KEYWORD,cnki
+  - IP-CIDR,115.31.65.10/32
