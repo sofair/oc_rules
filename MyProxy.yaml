@@ -23,6 +23,7 @@ payload:
   - DOMAIN,chinaq.cc
   - DOMAIN-SUFFIX,chinaq.cc
   - DOMAIN-SUFFIX,openai.com
+  - DOMAIN,copilot.microsoft.com
   # - DOMAIN-SUFFIX,wokers.dev
   # - DOMAIN-SUFFIX,whatismyip.akamai.com
   # - DOMAIN,vm.xfren.top
