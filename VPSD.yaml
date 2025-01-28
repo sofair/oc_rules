@@ -4,6 +4,13 @@ payload:
   - DOMAIN-SUFFIX,vm.xfren.top
   - DOMAIN-SUFFIX,workers.dev
   - DOMAIN-SUFFIX,911030.xyz
+  - DOMAIN-SUFFIX,cloudflare.com
+  # claw.cloud vps
+  - DOMAIN-SUFFIX,dsjp.xfren.top
+  - DOMAIN-SUFFIX,dsjp4.xfren.top
+  - DOMAIN-SUFFIX,dsjp6.xfren.top
+  - IP-CIDR,47.79.88.207/32
+  - IP-CIDR6,240b:4009:25a:1802:0:b98c:a5c7:c157/128
   # - DOMAIN,vm.xfren.top
   # - IP-CIDR,127.0.0.0/8
   # vps ips
