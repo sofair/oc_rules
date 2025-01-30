@@ -1,9 +1,11 @@
 payload:
   # vps domains
   # - DOMAIN-SUFFIX,sofairren.workers.dev
-  - DOMAIN-SUFFIX,vm.xfren.top
+  - DOMAIN-SUFFIX,xfren.top
   - DOMAIN-SUFFIX,workers.dev
   - DOMAIN-SUFFIX,911030.xyz
+  - DOMAIN-SUFFIX,240613.xyz
+  - DOMAIN-SUFFIX,880717.xyz
   - DOMAIN-SUFFIX,cloudflare.com
   # claw.cloud vps
   - DOMAIN-SUFFIX,dsjp.xfren.top
