@@ -25,6 +25,8 @@ payload:
   - DOMAIN-SUFFIX,openai.com
   - DOMAIN-SUFFIX,chatgpt.com
   - DOMAIN,copilot.microsoft.com
+  # - DOMAIN,medium.com
+  - DOMAIN-SUFFIX,medium.com
   # - DOMAIN-SUFFIX,wokers.dev
   # - DOMAIN-SUFFIX,whatismyip.akamai.com
   # - DOMAIN,vm.xfren.top
