@@ -32,3 +32,6 @@ payload:
   # - DOMAIN,vm.xfren.top
   # - IP-CIDR,127.0.0.0/8
   # - IP-CIDR6,2001:250::/35
+  # Grok
+  - DOMAIN-SUFFIX,grok.com
+  - DOMAIN-SUFFIX,x.ai
