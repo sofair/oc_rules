@@ -1,6 +1,7 @@
 payload:
   - DOMAIN-SUFFIX,gemini.google.com
   - DOMAIN-SUFFIX,aistudio.google.com
+  - DOMAIN-SUFFIX,generativelanguage.googleapis.com
   # - DOMAIN-SUFFIX,local
   # - IP-CIDR,127.0.0.0/8
   # - IP-CIDR,172.16.0.0/12
