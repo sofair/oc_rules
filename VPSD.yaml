@@ -7,6 +7,9 @@ payload:
   - DOMAIN-SUFFIX,240613.xyz
   - DOMAIN-SUFFIX,880717.xyz
   - DOMAIN-SUFFIX,cloudflare.com
+  # virmatch vps
+  - IP-CIDR,104.234.37.202/32
+  - IP-CIDR6,2001:470:c:a4c::2/128
   # claw.cloud vps
   - DOMAIN-SUFFIX,dsjp.xfren.top
   - DOMAIN-SUFFIX,dsjp4.xfren.top
